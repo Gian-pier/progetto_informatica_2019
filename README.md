@@ -21,8 +21,8 @@ Pagine mancanti:
   Utenza Amministratore  
     ✅ Modifica Dati Meccanico[by GP]  
     ✅ Licenzia Meccanico[by LC]  
-    - Modifica Prodotto[by GP]  
-    - Modifica Cliente[by CM]  
+    ✅ Modifica Prodotto[by GP]  
+    ✅ Modifica Cliente[by CM]  
     - Cancella Cliente[by LC]    
     
   Utenza Meccanico  
