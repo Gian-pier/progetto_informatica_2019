@@ -23,10 +23,9 @@ Pagine mancanti:
     ✅ Licenzia Meccanico[by LC]  
     ✅ Modifica Prodotto[by GP]  
     ✅ Modifica Cliente[by CM]  
-    - Cancella Cliente[by LC]    
     
   Utenza Meccanico  
-    - Modifica Dati Veicolo[by dag7dev]  
+    ✅ Modifica Dati Veicolo[by GP]  
       
   Utenza Cliente  
     ✅ Visualizza fatture e lista veicoli
@@ -34,9 +33,7 @@ Pagine mancanti:
 pagine cancellati:  
 - Cancella Veicolo(Non la facciamo un veicolo è lì e basta, comporterebbe perdita di dati sulle fatture e il resto)
 - Cancella Prodotto(non la facciamo se ci chiedono perchè, aggiungi colonna stato=0 e modifica la query nell'insert perchè il prodotto non è più disponibile e quindi non va considerato, stato=1 dunque)
-
-progetti futuri:  
-  - bootstrap per css   
+- Cancella cliente (idem, vedi cancella prodotto)
 
 PERCHE' NON AVETE FATTO UNA PAGINA DOVE SI CALCOLA LA FATTURA?  
 PERCHE' C'È UN SOFTWARE ESTERNO CHE LO FAI PER NOI!
