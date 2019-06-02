@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="../css/style.css"  >
     </head>
     <body onload="cambiaNome();cambiaCosto();cambiaIVA();cambiaCategoria()">
-        <h1 class="center bgblack header_page"> Modifica dati meccanico </h1>
+        <h1 class="center bgblack header_page"> Modifica dati prodotto </h1>
 
         <div class = 'navbar bgblack maxwidth' id='menu'>
             <?php
